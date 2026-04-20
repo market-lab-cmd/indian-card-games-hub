@@ -1,0 +1,1 @@
+<url><loc>https://market-lab-cmd.github.io/indian-card-games-hub/</loc></url>
