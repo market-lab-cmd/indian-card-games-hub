@@ -10,7 +10,7 @@ This page explains how readers can think ahead without becoming rigid or overly 
 
 ## Strategic Thinking Overview
 
-![Indian Card Games Hub strategic thinking illustration in a calm educational workspace](../assets/images/strategic-thinking.png)
+![Indian Card Games Hub strategic thinking illustration in a calm educational workspace](../assets/images/strategic-thinking.webp)
 
 ---
 

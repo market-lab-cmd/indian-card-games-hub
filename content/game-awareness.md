@@ -10,7 +10,7 @@ This page explains how readers can widen their view without becoming overwhelmed
 
 ## Game Awareness Overview
 
-![Indian Card Games Hub game awareness illustration in a calm educational workspace](../assets/images/game-awareness.png)
+![Indian Card Games Hub game awareness illustration in a calm educational workspace](../assets/images/game-awareness.webp)
 
 ---
 

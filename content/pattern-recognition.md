@@ -10,7 +10,7 @@ This page focuses on how to use pattern recognition well without turning it into
 
 ## Pattern Recognition Overview
 
-![Indian Card Games Hub pattern recognition illustration in a calm educational workspace](../assets/images/pattern-recognition.png)
+![Indian Card Games Hub pattern recognition illustration in a calm educational workspace](../assets/images/pattern-recognition.webp)
 
 ---
 

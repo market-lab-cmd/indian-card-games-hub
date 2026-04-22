@@ -10,7 +10,7 @@ This page focuses on the mistakes that show up across many card games and explai
 
 ## Common Mistakes Overview
 
-![Indian Card Games Hub common mistakes illustration in a calm educational workspace](../assets/images/common-mistakes.png)
+![Indian Card Games Hub common mistakes illustration in a calm educational workspace](../assets/images/common-mistakes.webp)
 
 ---
 

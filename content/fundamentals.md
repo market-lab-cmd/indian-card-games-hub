@@ -10,7 +10,7 @@ This page explains the baseline habits that help across many Indian card games. 
 
 ## Fundamentals Overview
 
-![Indian Card Games Hub fundamentals illustration in a calm educational workspace](../assets/images/fundamentals.png)
+![Indian Card Games Hub fundamentals illustration in a calm educational workspace](../assets/images/fundamentals.webp)
 
 ---
 

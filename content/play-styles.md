@@ -10,7 +10,7 @@ This page explains how to study play styles in a grounded way without turning ev
 
 ## Play Styles Overview
 
-![Indian Card Games Hub play styles illustration in a calm educational workspace](../assets/images/play-styles.png)
+![Indian Card Games Hub play styles illustration in a calm educational workspace](../assets/images/play-styles.webp)
 
 ---
 

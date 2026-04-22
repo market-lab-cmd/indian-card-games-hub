@@ -10,7 +10,7 @@ This page focuses on how to make practical decisions when the right answer is no
 
 ## Decision Making Overview
 
-![Indian Card Games Hub decision making illustration in a calm educational workspace](../assets/images/decision-making.png)
+![Indian Card Games Hub decision making illustration in a calm educational workspace](../assets/images/decision-making.webp)
 
 ---
 

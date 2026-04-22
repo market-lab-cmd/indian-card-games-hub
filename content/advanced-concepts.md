@@ -10,7 +10,7 @@ This page explains those deeper ideas in a practical way so they remain useful i
 
 ## Advanced Concepts Overview
 
-![Indian Card Games Hub advanced concepts illustration in a calm educational workspace](../assets/images/advanced-concepts.png)
+![Indian Card Games Hub advanced concepts illustration in a calm educational workspace](../assets/images/advanced-concepts.webp)
 
 ---
 

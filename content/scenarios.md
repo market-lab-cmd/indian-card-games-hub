@@ -10,7 +10,7 @@ This page explains how scenario study helps readers turn live experience into st
 
 ## Scenarios Overview
 
-![Indian Card Games Hub scenarios illustration in a calm educational workspace](../assets/images/scenarios.png)
+![Indian Card Games Hub scenarios illustration in a calm educational workspace](../assets/images/scenarios.webp)
 
 ---
 

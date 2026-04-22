@@ -10,7 +10,7 @@ This page looks at how to compare reward, fragility, and recovery before committ
 
 ## Risk Balance Overview
 
-![Indian Card Games Hub risk balance illustration in a calm educational workspace](../assets/images/risk-balance.png)
+![Indian Card Games Hub risk balance illustration in a calm educational workspace](../assets/images/risk-balance.webp)
 
 ---
 

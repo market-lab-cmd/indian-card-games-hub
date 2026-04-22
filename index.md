@@ -12,7 +12,7 @@ The aim is to make the material easy to read, useful for review, and strong enou
 
 ## Site Overview
 
-![Indian Card Games Hub overview illustration with a calm educational workspace and visual study elements](./assets/images/overview.png)
+![Indian Card Games Hub overview illustration with a calm educational workspace and visual study elements](./assets/images/overview.webp)
 
 ---
 
